@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
