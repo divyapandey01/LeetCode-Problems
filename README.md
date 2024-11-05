@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/divyapandey01/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
 | ------- |
