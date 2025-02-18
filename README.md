@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1635-number-of-good-pairs](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/divyapandey01/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divyapandey01/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [1635-number-of-good-pairs](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/divyapandey01/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
