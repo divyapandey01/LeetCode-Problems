@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/divyapandey01/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divyapandey01/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/divyapandey01/LeetCode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/divyapandey01/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0001-two-sum) |
 | [1635-number-of-good-pairs](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/divyapandey01/LeetCode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/divyapandey01/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
