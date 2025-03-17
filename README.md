@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/divyapandey01/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0001-two-sum) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/divyapandey01/LeetCode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/divyapandey01/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -67,5 +69,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
