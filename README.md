@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/divyapandey01/LeetCode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/divyapandey01/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -74,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/divyapandey01/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/divyapandey01/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
